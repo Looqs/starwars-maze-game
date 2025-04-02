@@ -42,10 +42,10 @@ python oyun.py
 ## Harita Düzeni
 
 Harita.txt dosyasında:
-- 1: Duvar
-- 0: Boş alan
+- 0: Duvar
+- 1: Boş alan
 - A,B,C,D: Kötü karakter giriş kapıları
-- S: Hedef (Kupa)
+- S: İyi karakter doğma noktası
 
 ## Oyun Kuralları
 
