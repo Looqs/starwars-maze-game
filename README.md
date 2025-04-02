@@ -13,7 +13,7 @@ Oyunda, seçtiğiniz iyi karakter (Luke Skywalker veya Master Yoda) ile labirent
 - **Master Yoda**: Yakalandığında canının sadece yarısını kaybeder (6 kez yakalanabilir)
 
 #### Kötü Karakterler
-- **Darth Vader**: Duvarları yok sayarak hareket edebilir
+- **Darth Vader**: Duvarları yok ederek hareket edebilir
 - **Kylo Ren**: Her hamlede iki birim ilerleyebilir
 - **Stormtrooper**: Normal hareket eder
 
