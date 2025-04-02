@@ -8,7 +8,7 @@ from kotu_karakterler import DarthVader, KyloRen, Stormtrooper
 pygame.init()
 
 # Sabitler
-KARE_BOYUTU = 400
+KARE_BOYUTU = 40
 IZGARA_BOYUTU = 14  # Harita genişliği için güncellendi
 KENAR_BOSLUK = 50
 PENCERE_GENISLIK = IZGARA_BOYUTU * KARE_BOYUTU + 2 * KENAR_BOSLUK + 100  # Genişlik artırıldı
